@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://paulclaret.pro/portfolio">Paul</a></b>.
 
-<!--
-**paulclrt/paulclrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br />
+  <samp>
+    <br>I'm a <b>Embedded Software Engineer</b> & Fullstack Freelancer from France :fr:.<br>
+  </samp>
+  <img src="https://github.com/paulclrt/paulclrt/animation.gif alt="animation" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=paulclrt&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket: <samp>Fullstack freelance & Aprentice in Embedded Systems  @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://">_</a>.</samp>
+- 🔭 <samp>Interested in embedded systems and mecatronics, mathematics, web technologies, and AI.</samp>
+- 🌱 <samp>Open source enthusiast in C++, TypeScript, Python.</samp>
+- 🏠 <samp>Homepage at [paulclrt.pro](https://paulclrt.pro/).</samp>
+- 💬 <samp>My [resume](https://github.com/paulclrt/paulclrt/resume.pdf).</samp>
