@@ -15,3 +15,8 @@
 - 🌱 <samp>Open source enthusiast in C++, TypeScript, Python.</samp>
 - 🏠 <samp>Homepage at [paulclrt.pro](https://paulclrt.pro/).</samp>
 - 💬 <samp>My [resume](https://github.com/paulclrt/paulclrt/resume.pdf).</samp>
+
+
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulclrt&repo=paulclrt.github.io&theme=buefy" />
