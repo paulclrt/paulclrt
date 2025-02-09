@@ -19,4 +19,4 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulclrt&repo=paulclrt.github.io&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
