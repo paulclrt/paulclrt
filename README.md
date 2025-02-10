@@ -19,11 +19,16 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulclrt&layout=compact&theme=buefy&hide_border=true" align="left" />
+<div style="display: flex; flex-direction: row; justify-content: center; align-item:center;">
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulclrt&layout=compact&theme=buefy&hide_border=true" align="left" style=""/>
 
-<p align="right">
+<div align="right">
   - 🥇 <samp>Ranked 5th out of 670 other student @ ECE Paris</samp>
   - 🚀 <samp>Ex top 1% tryhackme platform <a href="https://tryhackme.com/p/451">my profile</a></samp>
   - 🎓 <samp>Studied at Mcgill University</samp>
   - 🏃🏻 <samp>Running fan and gym rat</samp>
-</p>
+</div>
+
+
+</div>
