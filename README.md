@@ -13,10 +13,17 @@
 - :rocket: <samp>Fullstack freelance & Aprentice in Embedded Systems  @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://">_</a>.</samp>
 - 🔭 <samp>Interested in embedded systems and mecatronics, mathematics, web technologies, and AI.</samp>
 - 🌱 <samp>Open source enthusiast in C++, TypeScript, Python.</samp>
-- 🏠 <samp>Homepage at [paulclrt.pro](https://paulclrt.pro/).</samp>
+- 🏠 <samp>Portfolio at [paulclaret.pro](https://paulclaret.pro/portfolio/).</samp>
 - 💬 <samp>My [resume](https://github.com/paulclrt/paulclrt/resume.pdf).</samp>
 
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulclrt&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulclrt&layout=compact&theme=buefy&hide_border=true" align="left" />
+
+<p align="right">
+  - 🥇 <samp>Ranked 5th out of 670 other student @ ECE Paris</samp>
+  - 🚀 <samp>Ex top 1% tryhackme platform <a href="https://tryhackme.com/p/451">my profile</a></samp>
+  - 🎓 <samp>Studied at Mcgill University</samp>
+  - 🏃🏻 <samp>Running fan and gym rat</samp>
+</p>
