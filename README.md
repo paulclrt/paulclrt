@@ -5,7 +5,7 @@
   <samp>
     <br>I'm a <b>Embedded Software Engineer</b> & Fullstack Freelancer from France :fr:.<br>
   </samp>
-  <img src="https://github.com/paulclrt/paulclrt/animation.gif alt="animation" width="100%"/>
+  <!--<img src="https://github.com/paulclrt/paulclrt/animation.gif alt="animation" width="100%"/>-->
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulclrt&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
