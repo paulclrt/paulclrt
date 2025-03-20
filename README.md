@@ -14,7 +14,7 @@
 - 🔭 <samp>Interested in embedded systems and mecatronics, mathematics, web technologies, and AI.</samp>
 - 🌱 <samp>Open source enthusiast in C++, TypeScript, Python.</samp>
 - 🏠 <samp>Portfolio at [paulclaret.pro](https://paulclaret.pro/portfolio/).</samp>
-- 💬 <samp>My [resume](https://raw.githubusercontent.com/paulclrt/paulclrt/refs/heads/main/Paul%20Claret%20CV%20-%20alternance%20Syst%C3%A8mes%20embarqu%C3%A9s%20sep25-juin27.pdf).</samp>
+- 💬 <samp>My [resume](https://raw.githubusercontent.com/paulclrt/paulclrt/refs/heads/main/Paul%20Claret%20CV%20-%20alternance%20Syst%C3%A8mes%20embarqu%C3%A9s%20sep25-juin27.pdf.pdf).</samp>
 
 
 <br />
