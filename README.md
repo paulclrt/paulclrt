@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulclrt&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-- :rocket: <samp>Fullstack freelance & Aprentice in Embedded Systems  @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://">_</a>.</samp>
+- :rocket: <samp>Fullstack freelance & Aprentice in Embedded Systems  @ <a rel="nofollow noopener noreferrer" target="_blank" href="[https://www.thalesgroup.com/fr](https://www.thalesgroup.com/fr)">Thales SIX</a>.</samp>
 - 🔭 <samp>Interested in embedded systems and mecatronics, mathematics, web technologies, and AI.</samp>
 - 🌱 <samp>Open source enthusiast in C++, TypeScript, Python.</samp>
 - 🏠 <samp>Portfolio at [paulclaret.pro](https://paulclaret.pro/portfolio/).</samp>
