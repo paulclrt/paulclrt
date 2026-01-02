@@ -1,4 +1,4 @@
-## Hi there 👋, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://paul-claret.pro/portfolio/">Paul</a></b>.
+## Hi there 👋, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://paul-claret.pro/">Paul</a></b>.
 
 <p align="center">
   <br />
