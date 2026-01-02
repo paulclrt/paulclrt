@@ -20,7 +20,6 @@
 <br />
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr;">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulclrt&layout=compact&theme=buefy&hide_border=true"/>
 <ul align="right">
    🥇 <samp>Ranked 5th out of 670 other student @ ECE Paris</samp> </br>
