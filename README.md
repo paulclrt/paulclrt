@@ -3,7 +3,7 @@
 <p align="center">
   <br />
   <samp>
-    <br>I'm a <b>Embedded Software Engineer</b> and hardware engineer from France :fr:.<br>
+    <br>I'm a <b>Embedded Software Engineer</b> from France :fr:.<br>
   </samp>
   <!--<img src="https://github.com/paulclrt/paulclrt/animation.gif alt="animation" width="100%"/>-->
 </p>
