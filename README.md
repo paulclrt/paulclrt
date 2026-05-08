@@ -3,7 +3,7 @@
 <p align="center">
   <br />
   <samp>
-    <br>I'm a <b>Embedded Software Engineer</b> from France :fr:.<br>
+    <br>I'm an <b>Embedded Software Engineer</b> from France :fr:.<br>
     <span style="font-size: 0.85em;">(Open to CIFRE PhD opportunities in AI, TinyML, and Embedded AI.)</span>
   </samp>
   <!--<img src="https://github.com/paulclrt/paulclrt/animation.gif alt="animation" width="100%"/>-->
